@@ -12,3 +12,7 @@ p {
     background: rgb(83, 194, 242);
 }
 
+strong {
+    color: red;
+}
+
