@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(46, 4, 164);
+    background-color: rgb(25, 146, 155);
 }
 
 h1 {
@@ -14,5 +14,9 @@ p {
 
 strong {
     color: red;
+}
+
+#especial {
+    font-size: 20px;
 }
 
