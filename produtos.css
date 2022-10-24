@@ -2,6 +2,10 @@ header {
     background: rgb(39, 218, 209);
 }
 
+#logo {
+    display: inline;
+}
+
 nav li {
     display: inline;
     margin: 10px;
