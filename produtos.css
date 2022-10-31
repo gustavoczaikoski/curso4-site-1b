@@ -3,7 +3,7 @@ header {
 }
 
 #logo {
-    display: inline;
+    width: 250px;
 }
 
 nav li {
