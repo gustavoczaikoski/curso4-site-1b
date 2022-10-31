@@ -2,8 +2,16 @@ header {
     background: rgb(39, 218, 209);
 }
 
+h1 {
+    display: inline;
+}
+
 #logo {
     width: 250px;
+}
+
+nav {
+    display: inline-block;
 }
 
 nav li {
